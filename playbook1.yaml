@@ -9,7 +9,7 @@
     
   - name: create a webpage
     copy:
-     content: " hello ivan, this playbook2-for webserver"
+     content: "  copy -hello ivan, this playbook2-for webserver"
      dest: /var/www/html/index.html
    
   - name: start a web service

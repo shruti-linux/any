@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710449954,,"wq"
+|2,0,1710450815,,"wq"
 :set nu
 |2,0,1710449878,,"set nu"
 :set paste
@@ -32,24 +32,36 @@
 |3,1,36,0,1,0,1710449887,"-"
 
 # File marks:
-'0  19  0  ~/playbook1.yaml
-|4,48,19,0,1710449954,"~/playbook1.yaml"
-'1  20  0  ~/playbook1.yaml
-|4,49,20,0,1710449864,"~/playbook1.yaml"
-'2  20  0  ~/playbook1.yaml
-|4,50,20,0,1710449864,"~/playbook1.yaml"
-'3  10  15  ~/ansible.cfg
-|4,51,10,15,1710449581,"~/ansible.cfg"
-'4  9  20  ~/ansible.cfg
-|4,52,9,20,1710449520,"~/ansible.cfg"
-'5  9  20  ~/ansible.cfg
-|4,53,9,20,1710449520,"~/ansible.cfg"
-'6  2  4  ~/inventory
-|4,54,2,4,1710449405,"~/inventory"
+'0  12  22  ~/playbook1.yaml
+|4,48,12,22,1710450815,"~/playbook1.yaml"
+'1  19  0  ~/playbook1.yaml
+|4,49,19,0,1710449954,"~/playbook1.yaml"
+'2  19  0  ~/playbook1.yaml
+|4,50,19,0,1710449954,"~/playbook1.yaml"
+'3  20  0  ~/playbook1.yaml
+|4,51,20,0,1710449864,"~/playbook1.yaml"
+'4  20  0  ~/playbook1.yaml
+|4,52,20,0,1710449864,"~/playbook1.yaml"
+'5  20  0  ~/playbook1.yaml
+|4,53,20,0,1710449864,"~/playbook1.yaml"
+'6  20  0  ~/playbook1.yaml
+|4,54,20,0,1710449864,"~/playbook1.yaml"
+'7  10  15  ~/ansible.cfg
+|4,55,10,15,1710449581,"~/ansible.cfg"
+'8  9  20  ~/ansible.cfg
+|4,56,9,20,1710449520,"~/ansible.cfg"
+'9  9  20  ~/ansible.cfg
+|4,57,9,20,1710449520,"~/ansible.cfg"
 
 # Jumplist (newest first):
+-'  12  22  ~/playbook1.yaml
+|4,39,12,22,1710450815,"~/playbook1.yaml"
+-'  19  0  ~/playbook1.yaml
+|4,39,19,0,1710450803,"~/playbook1.yaml"
 -'  19  0  ~/playbook1.yaml
 |4,39,19,0,1710449954,"~/playbook1.yaml"
+-'  20  0  ~/playbook1.yaml
+|4,39,20,0,1710449868,"~/playbook1.yaml"
 -'  20  0  ~/playbook1.yaml
 |4,39,20,0,1710449868,"~/playbook1.yaml"
 -'  20  0  ~/playbook1.yaml
@@ -58,6 +70,16 @@
 |4,39,1,0,1710449851,"~/playbook1.yaml"
 -'  1  0  ~/playbook1.yaml
 |4,39,1,0,1710449851,"~/playbook1.yaml"
+-'  1  0  ~/playbook1.yaml
+|4,39,1,0,1710449851,"~/playbook1.yaml"
+-'  10  15  ~/ansible.cfg
+|4,39,10,15,1710449581,"~/ansible.cfg"
+-'  10  15  ~/ansible.cfg
+|4,39,10,15,1710449581,"~/ansible.cfg"
+-'  10  15  ~/ansible.cfg
+|4,39,10,15,1710449581,"~/ansible.cfg"
+-'  10  15  ~/ansible.cfg
+|4,39,10,15,1710449581,"~/ansible.cfg"
 -'  10  15  ~/ansible.cfg
 |4,39,10,15,1710449581,"~/ansible.cfg"
 -'  10  15  ~/ansible.cfg
@@ -74,6 +96,22 @@
 |4,39,9,20,1710449564,"~/ansible.cfg"
 -'  9  20  ~/ansible.cfg
 |4,39,9,20,1710449564,"~/ansible.cfg"
+-'  9  20  ~/ansible.cfg
+|4,39,9,20,1710449564,"~/ansible.cfg"
+-'  9  20  ~/ansible.cfg
+|4,39,9,20,1710449564,"~/ansible.cfg"
+-'  9  20  ~/ansible.cfg
+|4,39,9,20,1710449564,"~/ansible.cfg"
+-'  9  20  ~/ansible.cfg
+|4,39,9,20,1710449564,"~/ansible.cfg"
+-'  9  20  ~/ansible.cfg
+|4,39,9,20,1710449520,"~/ansible.cfg"
+-'  9  20  ~/ansible.cfg
+|4,39,9,20,1710449520,"~/ansible.cfg"
+-'  9  20  ~/ansible.cfg
+|4,39,9,20,1710449520,"~/ansible.cfg"
+-'  9  20  ~/ansible.cfg
+|4,39,9,20,1710449520,"~/ansible.cfg"
 -'  9  20  ~/ansible.cfg
 |4,39,9,20,1710449520,"~/ansible.cfg"
 -'  9  20  ~/ansible.cfg
@@ -98,6 +136,22 @@
 |4,39,1,0,1710449410,"~/ansible.cfg"
 -'  1  0  ~/ansible.cfg
 |4,39,1,0,1710449410,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1710449410,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1710449410,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1710449410,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1710449410,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1710449410,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1710449410,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1710449410,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1710449410,"~/ansible.cfg"
 -'  2  4  ~/inventory
 |4,39,2,4,1710449405,"~/inventory"
 -'  2  4  ~/inventory
@@ -130,6 +184,44 @@
 |4,39,2,4,1710449405,"~/inventory"
 -'  2  4  ~/inventory
 |4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  2  4  ~/inventory
+|4,39,2,4,1710449405,"~/inventory"
+-'  1  0  ~/inventory
+|4,39,1,0,1710449393,"~/inventory"
+-'  1  0  ~/inventory
+|4,39,1,0,1710449393,"~/inventory"
+-'  1  0  ~/inventory
+|4,39,1,0,1710449393,"~/inventory"
 -'  1  0  ~/inventory
 |4,39,1,0,1710449393,"~/inventory"
 -'  1  0  ~/inventory
@@ -166,10 +258,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/playbook1.yaml
-	*	1710449952	0
-	"	19	0
-	^	19	1
-	.	19	1
+	*	1710450813	0
+	"	12	22
+	^	12	23
+	.	12	22
 	+	19	22
 	+	2	0
 	+	3	1
@@ -189,6 +281,7 @@
 	+	17	1
 	+	18	1
 	+	19	1
+	+	12	22
 
 > ~/ansible.cfg
 	*	1710449580	0
